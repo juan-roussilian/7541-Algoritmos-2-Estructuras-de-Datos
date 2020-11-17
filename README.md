@@ -1,2 +1,2 @@
 # Algoritmos_2_DataStructures
-Implementaciones en el lenguaje C de algunas de las estructuras de datos mas conocidas 
+Common data structures implemented in the C programming languaje for the subject "Algorithms and Programming 2"
